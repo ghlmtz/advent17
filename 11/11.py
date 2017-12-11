@@ -1,6 +1,4 @@
 dirs = open('11.in','r').read().split(',')
-# open('11.in'),'r').read()
-#dirs = ['se','sw','se','sw','sw','ne','ne']
 axis = [0,0,0]
 maxdist = 0
 for d in dirs:
